@@ -1,0 +1,7 @@
+{
+  "/api/v1/posts": "/posts",
+  "/api/v1/posts/:id": "/posts/:id",
+  "/api/v1/users": "/users",
+  "/api/v1/users/:id": "/users/:id",
+  "/api/v1/tokens": "/tokens"
+}
